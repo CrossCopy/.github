@@ -31,5 +31,5 @@ The main repos will be public once the code is stable. Anyone is welcomed to con
 
 See https://crosscopy.io/ for documentation with details of design, environment setup, and much more.
 
-There is also a discord server https://discord.com/invite/HRW99gex9z, you ask me questions there.
+There is also a discord server https://discord.com/invite/HRW99gex9z, feel free to ask me questions there.
 
